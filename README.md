@@ -7,3 +7,17 @@ The app is not connected to any backend server, so the recipes will not be store
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+## Installation
+
+Clone repository
+
+`git clone` + this repository
+
+Install dependencies
+
+`npm install`
+
+Run project
+
+`npm run dev`
