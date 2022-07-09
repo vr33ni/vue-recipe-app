@@ -1,6 +1,8 @@
-# Vue 3 + Vite
+# Vegan Recipe app
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a simple recipe app for vegan recipes, using Vue3 + Vite and showcasing some basic Vue3/Javascript skills.
+If a non vegan ingredient is added, a modal will be shown asking the user to try again.
+The app is not connected to any backend server, so the recipes will not be stored.
 
 ## Recommended IDE Setup
 
