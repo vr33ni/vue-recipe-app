@@ -1,4 +1,4 @@
-# Vegan Recipe app
+# Vegan recipe app
 
 This is a simple recipe app for vegan recipes, using Vue3 + Vite and showcasing some basic Vue3/Javascript skills.
 If a non vegan ingredient is added, a modal will be shown asking the user to try again.
